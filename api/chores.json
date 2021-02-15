@@ -1,0 +1,8 @@
+{"chores": [
+    { "id": 1, "task": "Paint Garage" },
+    { "id": 2, "task": "Take out the trash" },
+    { "id": 3, "task": "Do the laundry" },
+    { "id": 4, "task": "Clean the bedrooms" },
+    { "id": 5, "task": "Family game night" },
+    { "id": 6, "task": "Feed the dog" }
+]}
